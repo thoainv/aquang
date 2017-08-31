@@ -1,0 +1,6 @@
+C:\Users\tnguyen438\Documents\Visual Studio 2015\Projects\TestWCF\TestServices\bin\Debug\TestServices.exe.config
+C:\Users\tnguyen438\Documents\Visual Studio 2015\Projects\TestWCF\TestServices\bin\Debug\TestServices.exe
+C:\Users\tnguyen438\Documents\Visual Studio 2015\Projects\TestWCF\TestServices\bin\Debug\TestServices.pdb
+C:\Users\tnguyen438\Documents\Visual Studio 2015\Projects\TestWCF\TestServices\obj\Debug\TestServices.csprojResolveAssemblyReference.cache
+C:\Users\tnguyen438\Documents\Visual Studio 2015\Projects\TestWCF\TestServices\obj\Debug\TestServices.exe
+C:\Users\tnguyen438\Documents\Visual Studio 2015\Projects\TestWCF\TestServices\obj\Debug\TestServices.pdb
